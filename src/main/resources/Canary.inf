@@ -1,0 +1,5 @@
+;svdragster.dtdns.net
+name=ExactSpawn
+main-class=de.svdragster.exactspawn.ExactSpawn
+author=svdragster
+version=1
